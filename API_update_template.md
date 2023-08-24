@@ -1,12 +1,16 @@
 # Team API template
 
-A template for defining a Team API. A Team API is a description and specification that a team can define that tells others how to interact with that team.
+This template for defining a Team API. A Team API is a description and specification that a team can define that tells others how to interact with that team.
 
-Based on some of the ideas in the book _Team Topologies_ by Matthew Skelton [@matthewskelton](https://github.com/matthewskelton) and Manuel Pais [@manupaisable](https://github.com/manupaisable). See pages 47-49 of the book _Team Topologies_. 
+At its basic level, the Team API should define:
 
-> See [teamtopologies.com](https://teamtopologies.com/) for more details about Team Topologies.
+The communication protocols between members of the team and anyone external to the team
 
-> Copyright © 2018-2020 [Team Topologies](https://teamtopologies.com/) - Licenced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
+The way the team accepts work items
+
+The way the team delivers work items
+
+The way the team shows progress on work items
 
 ## Overview
 
